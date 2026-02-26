@@ -4,14 +4,14 @@ This is very useful for climate modelling and geospatial analysis, or mapping.
 There is a Python script for easy access to information(bounding_boxes, regions,land areas,currencies and etc) for each country, if you don't prefer the raw text(JSON).
 
 
-##  Files
+##  📁 Files
 
 | File | Purpose | Format |
 |------|---------|--------|
 | `country_codes` | **Main dataset** - All country information | JSON |
 | `Geo_countries.ipynb` | **Python module** - Easy programmatic access | Python |
 
-##  Quick Start
+##  🚀 Quick Start
 
 **Direct access:**
 ```python
